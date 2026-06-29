@@ -8,10 +8,10 @@
 # Project metadata (used for documentation / review)
 # ======================================================
 project:
-  title: ""        # Project title (e.g. "Simple CPU", "PLL", "ADC")
-  author: ""       # Your name
+  title: "PDK test"        # Project title (e.g. "Simple CPU", "PLL", "ADC")
+  author: "D.M.Bailey"       # Your name
   discord: ""      # Optional: Discord username (for support / communication)
-  description: ""  # Short one-line description
+  description: "PDK test data"  # Short one-line description
 
 # ======================================================
 # Layout (GDS) configuration
